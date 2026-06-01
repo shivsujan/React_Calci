@@ -252,6 +252,8 @@ export default App;
 ```
 ## OUTPUT
 
+<img width="1919" height="1079" alt="Screenshot 2026-06-01 105601" src="https://github.com/user-attachments/assets/926f0f84-2c5d-4167-8d1b-f6fc5cb98a7b" />
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/b1bad47b-c3ab-44bf-a388-c3f70f4edbc5" />
 
 ## RESULT
 The program for developing a simple calculator in React.js is executed successfully.
